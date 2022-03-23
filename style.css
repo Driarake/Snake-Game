@@ -1,0 +1,19 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:darkgreen;
+    font-family: Arial Black;
+    font-size: 25px;
+    background-image: url(/img/snk);
+    background-size:contain;
+    
+}
+
+canvas{
+    border: 5px solid #141414;
+}
+
